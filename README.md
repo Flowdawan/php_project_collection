@@ -1,2 +1,2 @@
-# php_project_collection
+# php project collection
 A simple collection of various small projects created with php
